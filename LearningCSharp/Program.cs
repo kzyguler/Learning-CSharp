@@ -5,7 +5,7 @@ Console.WriteLine("That's the first day of your coding journey.");
 
 Console.WriteLine("How old are you?");
 string old = Console.ReadLine();
-Console.WriteLine($"I'm {old} years old.");
+Console.WriteLine($"I'm {old} years old."); 
 
 Console.WriteLine("What is your favourite game?");
 string game = Console.ReadLine();
