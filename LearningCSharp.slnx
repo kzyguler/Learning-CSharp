@@ -2,5 +2,6 @@
   <Folder Name="/Çözüm Öğeleri/">
     <File Path="Learning-CSharp-Character Selector/LearningCSharp2.slnx" />
   </Folder>
+  <Project Path="CSharpIfElse1/CSharpIfElse1/CSharpIfElse1.csproj" />
   <Project Path="LearningCSharp/LearningCSharp.csproj" />
 </Solution>
