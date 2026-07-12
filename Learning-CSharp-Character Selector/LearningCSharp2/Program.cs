@@ -1,0 +1,11 @@
+﻿Console.WriteLine("Create your character");
+Console.WriteLine("=======================");
+Console.WriteLine("Write your character name");
+string name = Console.ReadLine();
+Console.WriteLine($"Welcome to Osasis {name}");
+Console.WriteLine("=======================");
+Console.WriteLine("Choose your perk");
+string perk = Console.ReadLine();
+Console.WriteLine($"Your choice is {perk}");
+Console.WriteLine("=======================");
+Console.WriteLine("The story now begins");

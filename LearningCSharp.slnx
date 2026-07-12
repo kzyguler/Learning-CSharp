@@ -1,4 +1,6 @@
 <Solution>
-  <Project Path="../Learning-CSharp-Character Selector/LearningCSharp2/LearningCSharp2.csproj" />
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="Learning-CSharp-Character Selector/LearningCSharp2.slnx" />
+  </Folder>
   <Project Path="LearningCSharp/LearningCSharp.csproj" />
 </Solution>
